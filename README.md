@@ -11,6 +11,6 @@
 
 版本                    | 链接                                                                                                                                                                           | Coretype
 ----------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------
-**v0.1**                 | [<img src="https://github.com/LumosNet/Lumos-Build/raw/main/v0.1.0/lumos_0.1.0_linux_cpu.run-CPU-brightgreen" />](https://github.com/LumosNet/Lumos)           | CPU
-**v0.1**                 | [<img src="https://github.com/LumosNet/Lumos-Build/raw/main/v0.1.0/lumos_0.1.0_linux_gpu.run-GPU-brightgreen" />](https://github.com/LumosNet/Lumos)           | GPU
+**v0.1**                 | [<img src="https://img.shields.io/badge/Lumos-CPU-brightgreen" />](https://github.com/LumosNet/Lumos-Build/raw/main/v0.1.0/lumos_0.1.0_linux_cpu.run)           | CPU
+**v0.1**                 | [<img src="https://img.shields.io/badge/Lumos-GPU-brightgreen" />](https://github.com/LumosNet/Lumos-Build/raw/main/v0.1.0/lumos_0.1.0_linux_gpu.run)           | GPU
 
