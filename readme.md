@@ -11,12 +11,12 @@
 
 版本                    | 链接
 ----------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-**v1.0**                 | [<img src="https://img.shields.io/badge/Lumos-v1.0-brightgreen" />](https://github.com/LumosNet/Lumos-Build/archive/refs/tags/v1.0.zip)
+**v1.0**                 | [<img src="https://img.shields.io/badge/Lumos-v1.0-brightgreen" />](https://github.com/LumosNet/Lumos-Build/tree/v1.0)
 
 
 ## 版本信息
 
-- [v1.0](https://github.com/LumosNet/Lumos/tree/v1.0)：Lumos的第一个正式的长期支持版本，实现了基本的图像处理算法，完成了完整的测试，提供了较为完整的文档
+- [v1.0](https://github.com/LumosNet/Lumos-Build/tree/v1.0)：Lumos的第一个正式的长期支持版本，实现了基本的图像处理算法，完成了完整的测试，提供了较为完整的文档
 
 ## 联系我们：
 
