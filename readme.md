@@ -11,7 +11,7 @@
 
 版本                    | 链接
 ----------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-**v1.0**                 | [<img src="https://img.shields.io/badge/Lumos-v1.0-brightgreen" />](https://github.com/LumosNet/Lumos-Build/archive/refs/targs/v1.0.zip)
+**v1.0**                 | [<img src="https://img.shields.io/badge/Lumos-v1.0-brightgreen" />](https://github.com/LumosNet/Lumos-Build/archive/refs/tags/v1.0.zip)
 
 
 ## 版本信息
